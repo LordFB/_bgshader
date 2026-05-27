@@ -409,6 +409,4 @@ some desktop state.
 
 ## License
 
-No license file is currently included. Add one before publishing this repository
-if you want others to have explicit permission to use, modify, or redistribute
-the code.
+MIT own risk
